@@ -1,0 +1,3 @@
+The slow car is red.
+
+The fast lorry is blue.

@@ -1,0 +1,39 @@
+C:\FileDiff\FileDiff\bin\Debug\netcoreapp3.1\FileDiff.exe
+C:\FileDiff\FileDiff\bin\Debug\netcoreapp3.1\FileDiff.deps.json
+C:\FileDiff\FileDiff\bin\Debug\netcoreapp3.1\FileDiff.runtimeconfig.json
+C:\FileDiff\FileDiff\bin\Debug\netcoreapp3.1\FileDiff.runtimeconfig.dev.json
+C:\FileDiff\FileDiff\bin\Debug\netcoreapp3.1\FileDiff.dll
+C:\FileDiff\FileDiff\bin\Debug\netcoreapp3.1\FileDiff.pdb
+C:\FileDiff\FileDiff\obj\Debug\netcoreapp3.1\FileDiff.csprojAssemblyReference.cache
+C:\FileDiff\FileDiff\obj\Debug\netcoreapp3.1\FileDiff.AssemblyInfoInputs.cache
+C:\FileDiff\FileDiff\obj\Debug\netcoreapp3.1\FileDiff.AssemblyInfo.cs
+C:\FileDiff\FileDiff\obj\Debug\netcoreapp3.1\FileDiff.dll
+C:\FileDiff\FileDiff\obj\Debug\netcoreapp3.1\FileDiff.pdb
+C:\FileDiff\FileDiff\obj\Debug\netcoreapp3.1\FileDiff.csproj.CoreCompileInputs.cache
+C:\FileDiff\FileDiff\obj\Debug\netcoreapp3.1\FileDiff.genruntimeconfig.cache
+C:\Users\willi\OneDrive\Desktop\FileDiff\FileDiff\FileDiff\bin\Debug\netcoreapp3.1\FileDiff.exe
+C:\Users\willi\OneDrive\Desktop\FileDiff\FileDiff\FileDiff\bin\Debug\netcoreapp3.1\FileDiff.deps.json
+C:\Users\willi\OneDrive\Desktop\FileDiff\FileDiff\FileDiff\bin\Debug\netcoreapp3.1\FileDiff.runtimeconfig.json
+C:\Users\willi\OneDrive\Desktop\FileDiff\FileDiff\FileDiff\bin\Debug\netcoreapp3.1\FileDiff.runtimeconfig.dev.json
+C:\Users\willi\OneDrive\Desktop\FileDiff\FileDiff\FileDiff\bin\Debug\netcoreapp3.1\FileDiff.dll
+C:\Users\willi\OneDrive\Desktop\FileDiff\FileDiff\FileDiff\bin\Debug\netcoreapp3.1\FileDiff.pdb
+C:\Users\willi\OneDrive\Desktop\FileDiff\FileDiff\FileDiff\obj\Debug\netcoreapp3.1\FileDiff.csprojAssemblyReference.cache
+C:\Users\willi\OneDrive\Desktop\FileDiff\FileDiff\FileDiff\obj\Debug\netcoreapp3.1\FileDiff.csproj.CoreCompileInputs.cache
+C:\Users\willi\OneDrive\Desktop\FileDiff\FileDiff\FileDiff\obj\Debug\netcoreapp3.1\FileDiff.AssemblyInfoInputs.cache
+C:\Users\willi\OneDrive\Desktop\FileDiff\FileDiff\FileDiff\obj\Debug\netcoreapp3.1\FileDiff.AssemblyInfo.cs
+C:\Users\willi\OneDrive\Desktop\FileDiff\FileDiff\FileDiff\obj\Debug\netcoreapp3.1\FileDiff.dll
+C:\Users\willi\OneDrive\Desktop\FileDiff\FileDiff\FileDiff\obj\Debug\netcoreapp3.1\FileDiff.pdb
+C:\Users\willi\OneDrive\Desktop\FileDiff\FileDiff\FileDiff\obj\Debug\netcoreapp3.1\FileDiff.genruntimeconfig.cache
+C:\Users\willi\OneDrive\Documents\_Uni\Year1\Algorthims and Complexity\FileDiff\FileDiff\FileDiff\bin\Debug\netcoreapp3.1\FileDiff.exe
+C:\Users\willi\OneDrive\Documents\_Uni\Year1\Algorthims and Complexity\FileDiff\FileDiff\FileDiff\bin\Debug\netcoreapp3.1\FileDiff.deps.json
+C:\Users\willi\OneDrive\Documents\_Uni\Year1\Algorthims and Complexity\FileDiff\FileDiff\FileDiff\bin\Debug\netcoreapp3.1\FileDiff.runtimeconfig.json
+C:\Users\willi\OneDrive\Documents\_Uni\Year1\Algorthims and Complexity\FileDiff\FileDiff\FileDiff\bin\Debug\netcoreapp3.1\FileDiff.runtimeconfig.dev.json
+C:\Users\willi\OneDrive\Documents\_Uni\Year1\Algorthims and Complexity\FileDiff\FileDiff\FileDiff\bin\Debug\netcoreapp3.1\FileDiff.dll
+C:\Users\willi\OneDrive\Documents\_Uni\Year1\Algorthims and Complexity\FileDiff\FileDiff\FileDiff\bin\Debug\netcoreapp3.1\FileDiff.pdb
+C:\Users\willi\OneDrive\Documents\_Uni\Year1\Algorthims and Complexity\FileDiff\FileDiff\FileDiff\obj\Debug\netcoreapp3.1\FileDiff.csprojAssemblyReference.cache
+C:\Users\willi\OneDrive\Documents\_Uni\Year1\Algorthims and Complexity\FileDiff\FileDiff\FileDiff\obj\Debug\netcoreapp3.1\FileDiff.AssemblyInfoInputs.cache
+C:\Users\willi\OneDrive\Documents\_Uni\Year1\Algorthims and Complexity\FileDiff\FileDiff\FileDiff\obj\Debug\netcoreapp3.1\FileDiff.AssemblyInfo.cs
+C:\Users\willi\OneDrive\Documents\_Uni\Year1\Algorthims and Complexity\FileDiff\FileDiff\FileDiff\obj\Debug\netcoreapp3.1\FileDiff.csproj.CoreCompileInputs.cache
+C:\Users\willi\OneDrive\Documents\_Uni\Year1\Algorthims and Complexity\FileDiff\FileDiff\FileDiff\obj\Debug\netcoreapp3.1\FileDiff.dll
+C:\Users\willi\OneDrive\Documents\_Uni\Year1\Algorthims and Complexity\FileDiff\FileDiff\FileDiff\obj\Debug\netcoreapp3.1\FileDiff.pdb
+C:\Users\willi\OneDrive\Documents\_Uni\Year1\Algorthims and Complexity\FileDiff\FileDiff\FileDiff\obj\Debug\netcoreapp3.1\FileDiff.genruntimeconfig.cache

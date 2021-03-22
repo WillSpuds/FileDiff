@@ -1,0 +1,27 @@
+ *** Comparrison Report *** 
+File A: 2a.txt
+File B: 2b.txt
+********************
+
+
+ Line: 1 
+GitHub's collaborative approach to development depends on publishing commits from your local repository for other people to view, fetch, and update.
+ Line: 2 
+[ This line is blank ]
+ Line: 3 
+A remote URL is Git's fancy way of saying "the place where your code is stored." That URL could be your repository on GitHub, or another user's fork, or even on a completely different server.
+ Line: 4 
+[ This line is blank ]
+ Line: 5 
+You can only push to two types of [ Changed: URL-->url ] addresses:
+ Line: 6 
+[ This line is blank ]
+ Line: 7 
+An HTTPS URL like https://github.com/user/repo.git
+ Line: 8 
+An SSH URL, like git@github.com:user/repo.git
+ Line: 9 
+Git associates a remote URL with a name, and your default remote is usually called origin.
+
+
+********************
